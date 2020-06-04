@@ -1,5 +1,11 @@
 # psdrepo
+
 psdrepo.com 上找的一些免费 UI Kit
 
-1. [卖鞋子的网站](https://psdrepo.com/free-psd/shoes-store-app-design-freebie/)
-2. [卖家具的网站](https://psdrepo.com/free-psd/furniture-ecommerce-app-design-freebie/)
+1. [卖鞋子](./source/FurnitureApp-Freebie.xd)
+
+![1](./preview/01-1.png)
+
+2. [卖家具](./source/ShoeEcomereceApp-Freebie.xd)
+
+![1](./preview/02-1.png)
